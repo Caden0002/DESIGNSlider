@@ -10,7 +10,7 @@ const slides = [
     { number: 5 },
 ];
 
-const Slider = () => {
+const SliderNumber = () => {
     // Duplicate the slides array to ensure seamless looping
     const duplicatedSlides = [...slides, ...slides];
 
@@ -41,4 +41,4 @@ const Slider = () => {
     );
 };
 
-export default Slider;
+export default SliderNumber;
