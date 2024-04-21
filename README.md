@@ -3,7 +3,8 @@
 1. Open Terminal at the project's CD<br />
 2. npm install<br />
 3. npm install framer-motion<br />
-4. npm run dev<br />
+4. npm i @radix-ui/react-icons
+5. npm run dev<br />
 
 # designSlider
 This project includes a basic and some beautiful infinite slider components that you can use for your webpage.<br />
